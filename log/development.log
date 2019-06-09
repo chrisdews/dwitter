@@ -354,3 +354,232 @@ Processing by PagesController#explore as HTML
 Completed 200 OK in 14ms (Views: 12.4ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/pages/explore" for ::1 at 2019-06-09 18:06:25 +0100
+Processing by PagesController#explore as HTML
+  Rendering pages/explore.html.erb within layouts/application
+  Rendered pages/explore.html.erb within layouts/application (0.3ms)
+Completed 500 Internal Server Error in 23ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /Users/dewsy/Development/code/just_for_fun/dwitter/app/assets/config
+  /Users/dewsy/Development/code/just_for_fun/dwitter/app/assets/images
+  /Users/dewsy/Development/code/just_for_fun/dwitter/app/assets/javascripts
+  /Users/dewsy/Development/code/just_for_fun/dwitter/app/assets/stylesheets
+  /Users/dewsy/.rvm/gems/ruby-2.6.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /Users/dewsy/.rvm/gems/ruby-2.6.1/gems/actioncable-5.2.3/lib/assets/compiled
+  /Users/dewsy/.rvm/gems/ruby-2.6.1/gems/activestorage-5.2.3/app/assets/javascripts
+  /Users/dewsy/.rvm/gems/ruby-2.6.1/gems/actionview-5.2.3/lib/assets/compiled
+  /Users/dewsy/.rvm/gems/ruby-2.6.1/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /Users/dewsy/Development/code/just_for_fun/dwitter/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:18
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___4352735089577924137_70122393440580'
+Started GET "/pages" for ::1 at 2019-06-09 18:06:32 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /Users/dewsy/Development/code/just_for_fun/dwitter/app/assets/config
+  /Users/dewsy/Development/code/just_for_fun/dwitter/app/assets/images
+  /Users/dewsy/Development/code/just_for_fun/dwitter/app/assets/javascripts
+  /Users/dewsy/Development/code/just_for_fun/dwitter/app/assets/stylesheets
+  /Users/dewsy/.rvm/gems/ruby-2.6.1/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /Users/dewsy/.rvm/gems/ruby-2.6.1/gems/actioncable-5.2.3/lib/assets/compiled
+  /Users/dewsy/.rvm/gems/ruby-2.6.1/gems/activestorage-5.2.3/app/assets/javascripts
+  /Users/dewsy/.rvm/gems/ruby-2.6.1/gems/actionview-5.2.3/lib/assets/compiled
+  /Users/dewsy/.rvm/gems/ruby-2.6.1/gems/turbolinks-source-5.2.0/lib/assets/javascripts
+  /Users/dewsy/Development/code/just_for_fun/dwitter/node_modules):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:18
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb___4352735089577924137_70122340970140'
+Started GET "/pages" for ::1 at 2019-06-09 18:06:50 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 922ms (Views: 916.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:09:47 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 37ms (Views: 35.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:09:51 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 32ms (Views: 30.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:09:55 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 37ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:10:26 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 37ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:10:41 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 304ms (Views: 298.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:10:42 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 40ms (Views: 38.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:11:44 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 39ms (Views: 38.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:11:45 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 40ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:12:49 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 40ms (Views: 38.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:12:49 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 58ms (Views: 57.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:13:04 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 37ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:13:16 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 41ms (Views: 39.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:21:49 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 174ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Error: File to import not found or unreadable: ../node_modules/bootstrap/scss/bootstrap.
+        on line 18 of app/assets/stylesheets/application.scss
+>> @import "../node_modules/bootstrap/scss/bootstrap";
+
+   ^
+):
+     5:     <%= csrf_meta_tags %>
+     6:     <%= csp_meta_tag %>
+     7: 
+     8:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10:   </head>
+    11: 
+  
+app/assets/stylesheets/application.scss:18
+app/views/layouts/application.html.erb:8:in `_app_views_layouts_application_html_erb__2432801346539067757_70267784725280'
+Started GET "/pages" for ::1 at 2019-06-09 18:22:07 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 1608ms (Views: 1607.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:26:22 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.9ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 67ms (Views: 65.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:26:54 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.6ms)
+Completed 200 OK in 44ms (Views: 42.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:27:10 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 49ms (Views: 47.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:27:40 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.3ms)
+Completed 200 OK in 45ms (Views: 43.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages" for ::1 at 2019-06-09 18:27:41 +0100
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+Completed 200 OK in 44ms (Views: 42.6ms | ActiveRecord: 0.0ms)
+
+
